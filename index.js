@@ -1,1 +1,3 @@
-console.log('newly added js')
+document.querySelector("button").addEventListener('click', function() {
+    console.log("Button is clicked!")
+});
