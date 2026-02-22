@@ -1,3 +1,1 @@
-document.querySelector("button").addEventListener('click', function() {
-    alert("Button is clicked!")
-});
+console.log('ProductV2 Branch')
